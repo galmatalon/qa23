@@ -1,0 +1,30 @@
+body{
+	text-align:center;
+}
+
+img {
+	height:300px;
+	border: 3px solid red;
+	padding: 10px;
+}
+
+#mytitle {
+	color: red;
+	      font-size: 2em;
+      font-weight: bold;
+      text-align: center;
+      color: #333;
+      text-shadow: 2px 2px #eee;
+      margin-top: 0;
+      margin-bottom: 20px;
+}
+
+#menu a{
+	margin: 10px
+}
+
+.green {
+	color: white;
+	background-color: green;
+}
+
